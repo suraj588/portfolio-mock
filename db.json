@@ -2,7 +2,7 @@
   "messages":[
     {
       "id" : 0,
-      "name":"Suraj Singh",
+      "sender":"Suraj Singh",
       "email_id": "surajbhansingh588@gmail.com",
       "msg" : "My first content!"
     }
