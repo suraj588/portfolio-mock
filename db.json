@@ -1,16 +1,11 @@
 {
-  "posts":[
+  "messages":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name":"Suraj Singh"
+      "email_id": "surajbhansingh588@gmail.com",
+      "msg" : "My first content!"
     }
   ]
+  
 }
